@@ -1,3 +1,3 @@
 # Hazrat Ali
 
-# Statistic And Pro
+# Statistic And Proba
