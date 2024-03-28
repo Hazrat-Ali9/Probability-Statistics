@@ -2,4 +2,4 @@
 
 # Statistic And Probability
 
-# Soft
+# Software
