@@ -1,5 +1,5 @@
 # Hazrat Ali
 
-# Statistic And Probability
+# Statistic & Probability
 
 # Software Engineer
