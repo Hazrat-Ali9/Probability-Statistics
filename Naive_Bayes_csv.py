@@ -3,7 +3,7 @@
 # Batch : 11
 # Lab : Naive_Bayes
 # Dept Of CSE 
-# Sec
+# Section : 
 
 
 
