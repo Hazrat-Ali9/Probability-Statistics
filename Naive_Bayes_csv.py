@@ -1,3 +1,6 @@
+# Haz
+
+
 import csv
 
 with open('./csv/naive_bayes.csv') as file:
