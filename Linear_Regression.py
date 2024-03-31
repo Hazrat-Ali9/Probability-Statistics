@@ -1,3 +1,7 @@
+# Haz
+
+
+
 repeat = True
 while repeat:
     size = int(input('Insert size of X or Y :'))
