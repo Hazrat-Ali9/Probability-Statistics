@@ -1,5 +1,5 @@
 # Hazrat Ali
-# ID : 2210100
+# ID : 221010050
 
 
 def pattern(n):
