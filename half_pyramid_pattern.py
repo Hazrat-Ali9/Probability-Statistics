@@ -1,7 +1,7 @@
 # Hazrat Ali
 # ID : 221010050
 # Batch : 11
-# Dept Of 
+# Dept Of CSE
 
 
 def pattern(n):
