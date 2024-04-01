@@ -1,4 +1,4 @@
-# Haz
+# Hazrat
 
 
 def pattern(n):
